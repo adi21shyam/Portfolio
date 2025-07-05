@@ -152,6 +152,36 @@
       "gradient": "from-purple-500 to-purple-600",
       "demoUrl": "https://jobster-sigma.vercel.app/landing",
       "githubUrl": "https://github.com/adi21shyam/Jobster"
+    },
+    {
+      "name": "Jobster",
+      "description": "Job application tracking system with authentication, job management, and status updates. Helps track 1000+ job applications efficiently.",
+      "technologies": ["React.js", "Redux", "Express.js", "Vercel"],
+      "category": "Job Tracker",
+      "icon": "💼",
+      "gradient": "from-purple-500 to-purple-600",
+      "demoUrl": "https://jobster-sigma.vercel.app/landing",
+      "githubUrl": "https://github.com/adi21shyam/Jobster"
+    },
+    {
+      "name": "Jobster",
+      "description": "Job application tracking system with authentication, job management, and status updates. Helps track 1000+ job applications efficiently.",
+      "technologies": ["React.js", "Redux", "Express.js", "Vercel"],
+      "category": "Job Tracker",
+      "icon": "💼",
+      "gradient": "from-purple-500 to-purple-600",
+      "demoUrl": "https://jobster-sigma.vercel.app/landing",
+      "githubUrl": "https://github.com/adi21shyam/Jobster"
+    },
+    {
+      "name": "Jobster",
+      "description": "Job application tracking system with authentication, job management, and status updates. Helps track 1000+ job applications efficiently.",
+      "technologies": ["React.js", "Redux", "Express.js", "Vercel"],
+      "category": "Job Tracker",
+      "icon": "💼",
+      "gradient": "from-purple-500 to-purple-600",
+      "demoUrl": "https://jobster-sigma.vercel.app/landing",
+      "githubUrl": "https://github.com/adi21shyam/Jobster"
     }
   ],
   "achievements": [
