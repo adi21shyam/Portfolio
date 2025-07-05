@@ -130,8 +130,8 @@
       "category": "Real Estate",
       "icon": "🏠",
       "gradient": "from-blue-500 to-blue-600",
-      "demoUrl": "#",
-      "githubUrl": "#"
+      "demoUrl": "https://anytime-property.onrender.com/",
+      "githubUrl": "https://github.com/adi21shyam/Anytime-Property"
     },
     {
       "name": "Qkart E-Commerce",
@@ -140,8 +140,8 @@
       "category": "E-Commerce",
       "icon": "🛒",
       "gradient": "from-green-500 to-green-600",
-      "demoUrl": "#",
-      "githubUrl": "#"
+      "demoUrl": "https://aditya-singh-criodo-me-qkart-frontend-v2.vercel.app/",
+      "githubUrl": "https://github.com/adi21shyam/Qkart-Frontend"
     },
     {
       "name": "Jobster",
@@ -150,8 +150,8 @@
       "category": "Job Tracker",
       "icon": "💼",
       "gradient": "from-purple-500 to-purple-600",
-      "demoUrl": "#",
-      "githubUrl": "#"
+      "demoUrl": "https://jobster-sigma.vercel.app/landing",
+      "githubUrl": "https://github.com/adi21shyam/Jobster"
     }
   ],
   "achievements": [
