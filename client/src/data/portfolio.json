@@ -1,0 +1,180 @@
+{
+  "personal": {
+    "name": "Aditya Singh",
+    "title": "Software Developer",
+    "bio": "Passionate full-stack developer with expertise in React, Node.js, and modern web technologies. I create efficient, scalable solutions that make a difference.",
+    "email": "adishyam16@gmail.com",
+    "phone": "+91-9555527439",
+    "location": "Bengaluru, Karnataka"
+  },
+  "social": {
+    "github": "https://github.com/adishyam16",
+    "linkedin": "https://linkedin.com/in/aditya-singh",
+    "leetcode": "https://leetcode.com/adishyam16",
+    "codeforces": "https://codeforces.com/profile/adishyam16"
+  },
+  "about": {
+    "intro": "I'm a passionate software engineer with a strong foundation in full-stack development and competitive programming.",
+    "journey": [
+      "With a Computer Science degree from Madan Mohan Malaviya University of Technology, I've built a strong foundation in software engineering principles and modern web technologies.",
+      "Currently working as a Software Engineer at Trendlyne Technologies, where I've contributed to significant performance improvements and user experience enhancements. My experience spans from frontend React applications to backend Node.js services.",
+      "Beyond professional work, I'm passionate about competitive programming, having solved 700+ problems on LeetCode and achieving notable ranks in prestigious contests like ICPC."
+    ]
+  },
+  "stats": [
+    {
+      "label": "LeetCode Problems",
+      "value": 700,
+      "suffix": "+"
+    },
+    {
+      "label": "CodeForces Problems",
+      "value": 500,
+      "suffix": "+"
+    },
+    {
+      "label": "Projects Completed",
+      "value": 10,
+      "suffix": "+"
+    },
+    {
+      "label": "Years Experience",
+      "value": 2,
+      "suffix": ""
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "Frontend",
+        "icon": "Code",
+        "color": "primary",
+        "type": "skills",
+        "items": [
+          { "name": "React.js", "level": 90 },
+          { "name": "JavaScript", "level": 95 },
+          { "name": "TypeScript", "level": 85 }
+        ]
+      },
+      {
+        "name": "Backend",
+        "icon": "Server",
+        "color": "secondary",
+        "type": "skills",
+        "items": [
+          { "name": "Node.js", "level": 88 },
+          { "name": "Express.js", "level": 90 },
+          { "name": "MongoDB", "level": 85 }
+        ]
+      },
+      {
+        "name": "Languages",
+        "icon": "Code",
+        "color": "accent",
+        "type": "skills",
+        "items": [
+          { "name": "C++", "level": 90 },
+          { "name": "Python", "level": 80 },
+          { "name": "SQL", "level": 85 }
+        ]
+      },
+      {
+        "name": "Tools",
+        "icon": "Wrench",
+        "color": "slate",
+        "type": "tags",
+        "items": [
+          { "name": "Git" },
+          { "name": "AWS" },
+          { "name": "Docker" },
+          { "name": "Jest" },
+          { "name": "Postman" },
+          { "name": "Vite" }
+        ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Trendlyne Technologies",
+      "position": "Software Engineer",
+      "duration": "Mar 2024 – Present",
+      "location": "Bangalore",
+      "responsibilities": [
+        "Spearheaded Smart Options development, enhancing user experience by 100%",
+        "Optimized application performance by 2X through troubleshooting and refinement",
+        "Boosted organic traffic by 70% through strategic SEO implementation",
+        "Improved page metrics (LCP, FCP, CLS, TBT) by 45%",
+        "Implemented Web Workers for efficient background processing"
+      ]
+    },
+    {
+      "company": "Crio.do",
+      "position": "Project Engineer",
+      "duration": "Jan 2023 – Present",
+      "location": "Bangalore",
+      "responsibilities": [
+        "Modernized event admin panel with generic components",
+        "Improved event creation efficiency by 90%",
+        "Collaborated on 10+ projects using JavaScript and React",
+        "Engineered robust authentication system for flagship website",
+        "Wrote comprehensive test cases using Cypress"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Anytime Property",
+      "description": "A comprehensive real-estate platform with authentication, advanced filtering, and responsive design. Handles 1000+ property listings with MongoDB integration.",
+      "technologies": ["React.js", "Express.js", "MongoDB", "JWT", "Material-UI"],
+      "category": "Real Estate",
+      "icon": "🏠",
+      "gradient": "from-blue-500 to-blue-600",
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "name": "Qkart E-Commerce",
+      "description": "Full-featured e-commerce platform with authentication, shopping cart, and responsive design. Includes comprehensive testing and handles 500+ products.",
+      "technologies": ["React.js", "Express.js", "Material-UI", "Jest", "MongoDB"],
+      "category": "E-Commerce",
+      "icon": "🛒",
+      "gradient": "from-green-500 to-green-600",
+      "demoUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "name": "Jobster",
+      "description": "Job application tracking system with authentication, job management, and status updates. Helps track 1000+ job applications efficiently.",
+      "technologies": ["React.js", "Redux", "Express.js", "Vercel"],
+      "category": "Job Tracker",
+      "icon": "💼",
+      "gradient": "from-purple-500 to-purple-600",
+      "demoUrl": "#",
+      "githubUrl": "#"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "ICPC Kanpur Regionals",
+      "value": "89th Rank",
+      "description": "Secured 89th position among thousands of participants in 2020",
+      "icon": "Trophy",
+      "color": "yellow"
+    },
+    {
+      "title": "Problem Solving",
+      "value": "1200+",
+      "description": "Combined problems solved across LeetCode and CodeForces platforms",
+      "icon": "Code",
+      "color": "green"
+    },
+    {
+      "title": "CodeChef Contest",
+      "value": "54th Rank",
+      "description": "Achieved 54th position among 20,000 participants with rewards",
+      "icon": "Medal",
+      "color": "blue"
+    }
+  ]
+}
