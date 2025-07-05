@@ -77,7 +77,7 @@ export default function ResumeSection() {
               <div className="space-y-4 mb-6">
                 <div className="flex items-center gap-3 text-slate-600 dark:text-slate-400">
                   <MapPin className="w-4 h-4" />
-                  <span>Kanpur, India</span>
+                  <span>Lucknow, India</span>
                 </div>
                 <div className="flex items-center gap-3 text-slate-600 dark:text-slate-400">
                   <Calendar className="w-4 h-4" />
