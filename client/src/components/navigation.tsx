@@ -83,12 +83,6 @@ export default function Navigation() {
         {/* Mobile Navigation */}
         <AnimatePresence>
           {isMobileMenuOpen && (
-            <motion.div
-              initial={{ opacity: 0, height: 0 }}
-              animate={{ opacity: 1, height: "auto" }}
-              exit={{ opacity: 0, height: 0 }}
-              className="md:hidden pb-4 overflow-hidden"
-            >
               <div className="flex flex-col space-y-3">
                 {navItems.map((item) => (
                   <button
@@ -102,7 +96,6 @@ export default function Navigation() {
                   </button>
                 ))}
               </div>
-            </motion.div>
           )}
         </AnimatePresence>
       </div>
