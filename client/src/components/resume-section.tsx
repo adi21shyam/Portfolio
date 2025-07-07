@@ -9,7 +9,7 @@ export default function ResumeSection() {
   const handleDownloadResume = () => {
     // Create a link to download the resume PDF
     const link = document.createElement('a');
-    link.href = '/attached_assets/Aditya_s_Resume.pdf';
+    link.href = '/attached_assets/Aditya_s_Resume_1751736159792.pdf';
     link.download = 'Aditya_Singh_Resume.pdf';
     link.target = '_blank';
     document.body.appendChild(link);
